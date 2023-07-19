@@ -1,0 +1,11 @@
+div.square {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 28px;
+  font-weight: bolder;
+  border: solid 2px black;
+  width: 32px;
+  height: 32px;
+}
